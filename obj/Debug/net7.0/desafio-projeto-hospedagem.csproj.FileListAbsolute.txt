@@ -1,0 +1,15 @@
+C:\Study\dotNet\desafio-projeto-hospedagem\bin\Debug\net7.0\desafio-projeto-hospedagem.exe
+C:\Study\dotNet\desafio-projeto-hospedagem\bin\Debug\net7.0\desafio-projeto-hospedagem.deps.json
+C:\Study\dotNet\desafio-projeto-hospedagem\bin\Debug\net7.0\desafio-projeto-hospedagem.runtimeconfig.json
+C:\Study\dotNet\desafio-projeto-hospedagem\bin\Debug\net7.0\desafio-projeto-hospedagem.dll
+C:\Study\dotNet\desafio-projeto-hospedagem\bin\Debug\net7.0\desafio-projeto-hospedagem.pdb
+C:\Study\dotNet\desafio-projeto-hospedagem\obj\Debug\net7.0\desafio-projeto-hospedagem.csproj.AssemblyReference.cache
+C:\Study\dotNet\desafio-projeto-hospedagem\obj\Debug\net7.0\desafio-projeto-hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\desafio-projeto-hospedagem\obj\Debug\net7.0\desafio-projeto-hospedagem.AssemblyInfoInputs.cache
+C:\Study\dotNet\desafio-projeto-hospedagem\obj\Debug\net7.0\desafio-projeto-hospedagem.AssemblyInfo.cs
+C:\Study\dotNet\desafio-projeto-hospedagem\obj\Debug\net7.0\desafio-projeto-hospedagem.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\desafio-projeto-hospedagem\obj\Debug\net7.0\desafio-projeto-hospedagem.dll
+C:\Study\dotNet\desafio-projeto-hospedagem\obj\Debug\net7.0\refint\desafio-projeto-hospedagem.dll
+C:\Study\dotNet\desafio-projeto-hospedagem\obj\Debug\net7.0\desafio-projeto-hospedagem.pdb
+C:\Study\dotNet\desafio-projeto-hospedagem\obj\Debug\net7.0\desafio-projeto-hospedagem.genruntimeconfig.cache
+C:\Study\dotNet\desafio-projeto-hospedagem\obj\Debug\net7.0\ref\desafio-projeto-hospedagem.dll
